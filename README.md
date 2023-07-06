@@ -1,2 +1,2 @@
 # RepositorioHenry 
-Ejercicios del modulo 2 
+Ejercios de practica del modulo 2 
